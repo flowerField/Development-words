@@ -28,7 +28,7 @@ List some common words used in program development
 
 > node           节点
 
-> max            最大值
+> [max](http://dict.youdao.com/search?q=max)           最大值
 
 > min            最小值
 

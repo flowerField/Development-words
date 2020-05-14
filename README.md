@@ -15,3 +15,7 @@ List some common words used in program development
 > length         长度
 > element        元素
 > node           节点
+> max            最大值
+> min            最小值
+> expr           表达式
+> 

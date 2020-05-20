@@ -2,6 +2,18 @@
 
 List some common words used in program development
 
+> array              数组(同 List )
+
+> arrayLike          类数组(伪数组)，同 likeArray
+
+> arguments          参数，简写 args
+
+> call               调用;电话；呼叫；要求；访问;拜访等
+
+> bind               捆绑；困境；讨厌的事情；植物的藤蔓；有约束力
+
+> apply              适用、应用、申请和请求等
+
 > [developer]()      开发人员
 
 > implementation 实现
@@ -15,6 +27,8 @@ List some common words used in program development
 > promise        承诺、允诺、给人以...希望
 
 > compile        编译
+
+> commit         提交
 
 > template       模板
 
@@ -45,4 +59,10 @@ List some common words used in program development
 > previous       前面的、上一个，开发中常简写为 prev
 
 > expr           表达式
+
+> status         状态
+
+> add            添加、加入
+
+
 ```

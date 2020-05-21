@@ -64,5 +64,14 @@ List some common words used in program development
 
 > add            添加、加入
 
+> Symbol         符号,标识,象征
+
+> instance       实例
+
+> attribute      属性，特质
+
+> property       属性,财产,所有权,性质
+
+> search         搜索
 
 ```

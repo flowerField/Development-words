@@ -81,4 +81,24 @@ List some common words used in program development
 > variable       变量,可变物 (程序设计中简写为 var 用来作为声明变量的关键词使用)
 
 > const          恒定的,不变的，常数和常量(程序设计语言中 用作声明常量的关键字，见于 C C++等编程语言)
+
+> object         对象
+
+> string         字符串
+
+> char           字符
+
+> data           数据
+
+> number         数字
+
+> boolean        布尔值
+
+> true           真，正确的，通过的
+
+> false          假，错误的,没有通过的
+
+> define         定义,规定，使....明确
+
+> assign         分配,指派,赋值等
 ```

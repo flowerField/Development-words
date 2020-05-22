@@ -101,4 +101,14 @@ List some common words used in program development
 > define         定义,规定，使....明确
 
 > assign         分配,指派,赋值等
+
+> flat           平坦的
+
+> flatten        击败，摧毁；使……平坦,变平，变得单调
+
+> SNS            社交网络平台
+
+> programming paradigm  编程范式
+
+
 ```

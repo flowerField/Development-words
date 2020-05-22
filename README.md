@@ -74,4 +74,11 @@ List some common words used in program development
 
 > search         搜索
 
+> console        控制台,操作台
+
+> log            日志,观察，记录等
+
+> variable       变量,可变物 (程序设计中简写为 var 用来作为声明变量的关键词使用)
+
+> const          恒定的,不变的，常数和常量(程序设计语言中 用作声明常量的关键字，见于 C C++等编程语言)
 ```

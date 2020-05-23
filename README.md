@@ -246,4 +246,49 @@ List some common words used in program development
 
 > not .. of       不是...的 
 
+> queue           队列
+
+> empty           空
+
+> enqueue         n. 排队；入队；队列
+
+> dequeue         v. 使（计算机待处理数据项）出列
+
+> front           前面；正面；前线
+
+> back            背部；脊梁骨；后部；背面；末尾；
+
+> sex             性；性别；性行为；色情
+
+> gender          n. 性；性别；
+
+> name            姓名，名字
+
+> code            代码，编码
+
+> male            男性的，雄性的
+
+> female          女性的；雌性的；柔弱的，柔和的
+
+> man             男人
+
+> woman           女人，妇女；女性；成年女子
+
+> girl            女孩
+
+> boy             男孩
+
+> bin             箱子，容器，垃圾箱
+
+> distribute      分开，分配
+
+> collect         收集；聚集；
+
+> disp            显示，派遣
+
+> radix           根；[数] 基数
+
+> digit           数字；手指或足趾；一指宽
+
+> allocation      分配
 ```

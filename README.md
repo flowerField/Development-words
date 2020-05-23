@@ -110,5 +110,60 @@ List some common words used in program development
 
 > programming paradigm  编程范式
 
+> shell           壳，命令行解释器
+
+> loop            循环
+
+> flag            旗帜，标识，标记
+
+> print           打印，印刷
+
+> collection      线性集合
+
+> index           索引 (常简写为 i 或者是 idx)
+
+> sum             总数,总和，总计
+
+> sentence        句子,语句
+
+> words           单词
+
+> copy            复制,拷贝
+
+> enter           输入，回车,进入,参加
+
+> read            读取
+
+> readline        逐行读取,读取一行内容
+
+> found           发现
+
+> position        位置,占位
+
+> join            连接，结合等
+
+> concat          合并，合并多个数组或者是字符串
+
+> slice           片，切片，切开
+
+> splice          拼接，移接等 (JavaScript 中数组的该方法用于插入、替换和删除)
+
+> push            推,加入，增加等
+
+> pop             流行音乐；流行文化；突然出现；突然地行动;迅速放置等
+
+> reverse         反向,翻转，颠倒
+
+> sort            排序
+
+> dictionary      字典
+
+> square          平方，广场
+
+> reduce          减少；降低；使处于；把…分解;缩小和归纳
+
+> left            左边
+
+> right           右边
 
 ```

@@ -14,19 +14,19 @@ List some common words used in program development
 
 > apply              适用、应用、申请和请求等
 
-> [developer]()      开发人员
+> [developer](http://dict.youdao.com/search?q=developer)      开发人员
 
 > implementation 实现
 
-> [iterator](http://dict.youdao.com/search?q=max)        迭代器、迭代程序、遍历器(接口)
+> [iterator](http://dict.youdao.com/search?q=iterator)        迭代器、迭代程序、遍历器(接口)
 
-> [entries]((http://dict.youdao.com/search?q=entries)    进入
+> [entries](http://dict.youdao.com/search?q=entries)    进入
 
 > tutorial       教程(course:课程/科目)
 
 > promise        承诺、允诺、给人以...希望
 
-> compile        编译
+> [compile](http://dict.youdao.com/search?q=compile)        编译
 
 > commit         提交
 
@@ -78,7 +78,7 @@ List some common words used in program development
 
 > log            日志,观察，记录等
 
-> variable       变量,可变物 (程序设计中简写为 var 用来作为声明变量的关键词使用)
+> [variable](http://dict.youdao.com/search?q=variable)       变量,可变物 (程序设计中简写为 var 用来作为声明变量的关键词使用)
 
 > const          恒定的,不变的，常数和常量(程序设计语言中 用作声明常量的关键字，见于 C C++等编程语言)
 
@@ -176,7 +176,7 @@ List some common words used in program development
 
 > pass            通过，经过；沿某方向前进；
 
-> grades          分数
+> [grades](http://dict.youdao.com/search?q=grades)           分数
 
 > all             所有的
 
@@ -222,5 +222,28 @@ List some common words used in program development
 
 > factorial       阶乘
 
+> remove          删除
+
+> show            显示
+
+> find            发现
+
+> count           计数器 
+
+> clear           清理，清除
+
+> size            大小,尺寸，长度
+
+> union           并集
+
+> subset          子集
+
+> contains        包含，是否包含
+
+> difference      差异；不同；争执
+
+> intersect       相交，交叉,交集
+
+> not .. of       不是...的 
 
 ```

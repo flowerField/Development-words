@@ -291,4 +291,18 @@ List some common words used in program development
 > digit           数字；手指或足趾；一指宽
 
 > allocation      分配
+
+> append          追加
+
+> insert          插入
+
+> before          在...的前面
+
+> after           在...的后面
+
+> get             获取
+
+> current         当前
+
+> element         元素 (简写为 ele 或者是 el)
 ```

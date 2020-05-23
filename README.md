@@ -166,4 +166,41 @@ List some common words used in program development
 
 > right           右边
 
+> map             计划；映现；映射；
+
+> filter          过滤器；滤波器；筛选程序；分流指示灯;过滤和渗透
+
+> even            偶数
+
+> odd             奇数
+
+> pass            通过，经过；沿某方向前进；
+
+> grades          分数
+
+> all             所有的
+
+> total           总数,总分
+
+> row             行,排
+
+> column          列
+
+> row and column  行和列
+
+> matrix          矩阵，模型
+
+> average         平均，平均数，平均分
+
+> student         学生
+
+> point           点 
+
+> store           储存，存储，仓储
+
+> dataStore       数据存储(仓库)
+
+> week            周，星期
+
+> weekly           每周的；周刊的；一周一次的
 ```

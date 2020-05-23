@@ -202,5 +202,25 @@ List some common words used in program development
 
 > week            周，星期
 
-> weekly           每周的；周刊的；一周一次的
+> weekly          每周的；周刊的；一周一次的
+
+> stack           栈
+
+> LIFO            后入先出(Last In First Out)
+
+> base            基本,基础,基数
+
+> convert         转换 
+
+> converted       修改，转变
+
+> palindrome      回文
+
+> product         产品；结果；[数] 乘积；作品
+
+> fact            事实；实际；真相
+
+> factorial       阶乘
+
+
 ```

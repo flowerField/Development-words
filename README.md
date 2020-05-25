@@ -1,6 +1,23 @@
 # Development-words
 
 List some common words used in program development
+> resolve            坚决；决定要做的事，解决,完成
+
+> reject             拒绝
+
+> then               然后
+
+> fulfilled          实现,满足
+
+> rejected           拒绝了
+
+> success            成功,正确
+
+> error              失败，错误 
+
+> failure            失败
+
+> catch              捕捉；捕获物；
 
 > array              数组(同 List )
 
@@ -305,4 +322,7 @@ List some common words used in program development
 > current         当前
 
 > element         元素 (简写为 ele 或者是 el)
+
+> tree            树
+
 ```

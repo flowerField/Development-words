@@ -1,6 +1,7 @@
 # Development-words
 
 List some common words used in program development
+
 > resolve            坚决；决定要做的事，解决,完成
 
 > reject             拒绝
@@ -324,5 +325,15 @@ List some common words used in program development
 > element         元素 (简写为 ele 或者是 el)
 
 > tree            树
+
+> spinner         控制项
+
+> Repository      仓库，存储库等
+
+> require         需求，要求，命令
+
+> task            任务
+
+> module          模块
 
 ```

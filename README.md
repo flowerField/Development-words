@@ -336,4 +336,17 @@ List some common words used in program development
 
 > module          模块
 
+> config          配置
+
+> choices         选择
+
+> package         包
+
+> inquirer        询问者，调查者
+
+>file             文件
+
+> update          更新
+
+
 ```

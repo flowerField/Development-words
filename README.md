@@ -348,5 +348,18 @@ List some common words used in program development
 
 > update          更新
 
+> download        下载
+
+> fetch           获取
+
+> message         消息
+
+> prompt          提示
+
+> exists          存在,出现
+
+> path            路径
+
+
 
 ```

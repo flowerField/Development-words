@@ -344,7 +344,7 @@ List some common words used in program development
 
 > inquirer        询问者，调查者
 
->file             文件
+> file             文件
 
 > update          更新
 
@@ -360,6 +360,21 @@ List some common words used in program development
 
 > path            路径
 
+> pending         等待
 
+> origin          n. 起源；原点；出身；开端
 
+> reference       引用，参考，参照；涉及，提及；参考书目；介绍信；证明书
+
+> commander       n. 指挥官，长官；海军中校；
+
+> stream          流
+
+> device          设备,装置；策略；图案；设备；终端
+
+> json            javascript object notation  基于JavaScript语言的轻量级的数据交换格式
+
+> notation        符号；乐谱；注释；记号法
+
+> 
 ```

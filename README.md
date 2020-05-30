@@ -376,5 +376,39 @@ List some common words used in program development
 
 > notation        符号；乐谱；注释；记号法
 
-> 
+> require         需要
+
+> default         默认值
+
+> validator       验证，验证器
+
+> component       组件
+
+> extend          扩展
+
+> warning         警告
+
+> danger          危险
+
+> author          作者
+
+> age             年龄
+
+> document        文档
+
+> progress        进度
+
+> method          方法
+
+> computed        计算，计算器
+
+> watch           监听
+
+> watcher         监听器，侦听器
+
+> background      背景
+
+> repeat          重复
+
+> custom          自定义
 ```

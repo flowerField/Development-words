@@ -2,6 +2,16 @@
 
 List some common words used in program development
 
+> Illegal            非法
+
+> mock               模拟
+
+> prototype          原型；样本；标准，模范；全真模型
+
+> arguments          参数
+
+> shift              转移；快速移动；移位
+
 > resolve            坚决；决定要做的事，解决,完成
 
 > reject             拒绝

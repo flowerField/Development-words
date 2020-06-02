@@ -2,7 +2,11 @@
 
 List some common words used in program development
 
+> double             双，两个
+
 > Illegal            非法
+
+> float              浮点数
 
 > mock               模拟
 

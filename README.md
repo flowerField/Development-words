@@ -278,6 +278,16 @@ List some common words used in program development
 
 > not .. of       不是...的 
 
+> executor        执行器
+
+> reason          原因
+
+> publisher       发布者
+
+> subscriber      订阅者
+
+> observer        观察者
+
 > queue           队列
 
 > empty           空

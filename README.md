@@ -435,4 +435,13 @@ List some common words used in program development
 > repeat          重复
 
 > custom          自定义
+
+> Chaining cycle detected    检测到连锁(死循环)循环
+
+> Chaining        链接；链锁作用；用链量距离
+
+> cycle           循环；周期；自行车；整套；一段时间
+
+> detected        发现，识别；检测到
+
 ```

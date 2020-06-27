@@ -444,4 +444,31 @@ List some common words used in program development
 
 > detected        发现，识别；检测到
 
+> Unit test      单元测试
+
+> front End      前端
+
+> back end       后端/Server
+
+> Hyper Text Markup Language   HTML(超文本标记语言)
+
+> Model View Controller MVC模型
+
+> Async Javascript and XML   ajax网络请求
+
+> Single Page Application    SPA单页面应用程序
+
+> backend for frontend       服务于前端的后端
+
+> protocol        协议
+
+> localhost       主机
+
+> resume          恢复
+
+> plugin          插件
+
+> support         支持
+
+
 ```

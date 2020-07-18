@@ -470,5 +470,20 @@ List some common words used in program development
 
 > support         支持
 
+> callback        回调
+
+> currying        函数柯里化
+
+> max-age         最大过期时间
+
+> expires         到期
+
+> modified        修改
+
+> last-Modified   最后修改日期
+
+> directory       目录 
+
+> accept          接受
 
 ```
